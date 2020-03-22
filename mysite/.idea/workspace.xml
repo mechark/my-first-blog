@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="351419e1-a2e6-427b-891b-5ae468d47456" name="Default Changelist" comment="" />
+    <list default="true" id="f4f5e374-34ce-40fb-9c0d-b8fb3b85869e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
+  <component name="ProjectId" id="1ZUvxD0Ud8C6k5p2MH2L6KG8ubv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,33 +15,33 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog/models.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/blog" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="351419e1-a2e6-427b-891b-5ae468d47456" name="Default Changelist" comment="" />
-      <created>1584864978849</created>
+      <changelist id="f4f5e374-34ce-40fb-9c0d-b8fb3b85869e" name="Default Changelist" comment="" />
+      <created>1584903908895</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584864978849</updated>
+      <updated>1584903908895</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1584871191439">
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1584907059306">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1584871191439" />
-    <state x="0" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584882266686">
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1584907059306" />
+    <state x="0" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584906805422">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state x="0" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.31.1366.737@0.31.1366.737" timestamp="1584882266686" />
-    <state x="408" y="314" width="550" height="178" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584871217044">
+    <state x="0" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.31.1366.737@0.31.1366.737" timestamp="1584906805422" />
+    <state x="408" y="314" width="550" height="178" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584904060213">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state x="408" y="314" width="550" height="178" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.31.1366.737@0.31.1366.737" timestamp="1584871217044" />
+    <state x="408" y="314" width="550" height="178" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.31.1366.737@0.31.1366.737" timestamp="1584904060213" />
   </component>
 </project>
